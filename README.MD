@@ -19,3 +19,6 @@ sales@byndyusoft.com
 > Для написания кода рекомендуем использовать инструмент Cypress
 
 > Результат тестового задания – ссылка на репозиторий с исходным кодом на github.com
+
+# Решение
+В файле [ContactInfo.spec.cy.js](https://github.com/RylkovAlex/TestTask-Cypress/blob/master/cypress/e2e/ContactInfo.spec.cy.js)
